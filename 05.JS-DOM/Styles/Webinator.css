@@ -1,0 +1,30 @@
+section{
+    margin: auto;
+    background: lightyellow;
+    width: 20%;
+    text-align: center;
+}
+
+p{
+    margin: auto;
+}
+.inv{
+    visibility: hidden;
+
+}
+#checkbox{
+    float:left;
+    margin-left: 20%;
+    margin-right: 1%;
+}
+#invoice{
+    text-align: left;
+}
+p.inv{
+    text-align: left;
+    margin-left: 50px;
+}
+#broken{
+    margin-left: 50px;
+    text-align: left;
+}
